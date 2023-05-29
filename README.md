@@ -3,6 +3,9 @@
 ## 联系方式2：飞机Telegram 请添加好友 mogu667
 
 ![输入图片说明](https://ppm-pics-resource.s3.us-east-1.amazonaws.com/cms/IMG_1251.PNG)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529175908.png)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529175954.png)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529180128.png)
 ## 足球竞赛
 足球竞赛投注有两种模式，*单关* 和 *串关*。
 
