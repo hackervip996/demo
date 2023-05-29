@@ -6,6 +6,10 @@
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529175908.png)
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529175954.png)
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529180128.png)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529181515.png)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529181527.png)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529181536.png)
+![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529181551.png)
 ## 足球竞赛
 足球竞赛投注有两种模式，*单关* 和 *串关*。
 
