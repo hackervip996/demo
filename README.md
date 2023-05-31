@@ -2,6 +2,9 @@
 ## 联系方式QQ：请添加好友 536469947
 ## 联系方式1：请下载Letstalk 请添加好友 t283141315
 ## 联系方式2：飞机Telegram 请添加好友 mogu667
+1.  即将上线演示环境  <br>
+体验地址:https://distribute.zbbino.com/mq/31/html/index.html<br>
+账户17777777777 密码123456
 
 ![输入图片说明](https://ppm-pics-resource.s3.us-east-1.amazonaws.com/cms/IMG_1251.PNG)
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/QQ截图20230529175908.png)
