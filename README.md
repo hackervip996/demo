@@ -11,8 +11,7 @@
 
 
 ### 手机移动端,页面自适应
-![image](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/appview.gif)
-<img src="https://github.com/jackedge161/demo/blob/main/bandicam-2023-06-04-15-43-41-935_1.gif"></img>
+[手机移动端演示](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/appview.gif)
 ### 后台端,页面自适应
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/backview.gif)
 
