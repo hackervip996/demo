@@ -12,7 +12,7 @@
 
 ### 手机移动端,页面自适应
 ![image](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/appview.gif)
-<img src="https://img1.baidu.com/it/u=1400131798,3422378849&fm=253&fmt=auto&app=138&f=JPEG?w=563&h=500"></img>
+<img src="https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/appview.gif"></img>
 ### 后台端,页面自适应
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/backview.gif)
 
