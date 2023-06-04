@@ -12,6 +12,7 @@
 
 ### 手机移动端,页面自适应
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/bandicam-2023-06-04-15-43-41-935_1.gif)
+<img src="https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/bandicam-2023-06-04-15-43-41-935_1.gif"></img>
 
 
 ### 后台端,页面自适应
