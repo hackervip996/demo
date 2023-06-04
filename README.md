@@ -4,14 +4,14 @@
 ## 联系方式2：飞机Telegram 请添加好友 mogu667
 
 1.  即将上线演示环境  <br>
-体验地址:https://distribute.zbbino.com/mq/31/html/index.html<br>
+体验地址:https://distribute.zbbino.com/mq/31/html/index.html <br>
 账户17777777777 密码123456
 
 #### 截图   全是一体化
 
 
 ### 手机移动端,页面自适应
-![image](https://alifei04.cfp.cn/creative/vcg/800/new/VCG211273401000.gif)
+![image](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/bandicam-2023-06-04-15-43-41-935_1.gif)
 
 ### 后台端,页面自适应
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/bandicam-2023-06-04-15-48-38-071.gif)
