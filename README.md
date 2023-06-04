@@ -13,7 +13,7 @@
 ### 手机移动端,页面自适应
 [手机移动端演示](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/appview.gif)
 ### 后台端,页面自适应
-![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/backview.gif)
+[后台端演示](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/backview.gif)
 
 ## 足球竞赛
 足球竞赛投注有两种模式，*单关* 和 *串关*。
