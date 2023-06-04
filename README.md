@@ -12,7 +12,7 @@
 
 ### 手机移动端,页面自适应
 ![image](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/bandicam-2023-06-04-15-43-41-935_1.gif)
-
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
 
 ### 后台端,页面自适应
 ![输入图片说明](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/bandicam-2023-06-04-15-48-38-071.gif)
