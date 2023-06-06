@@ -3,7 +3,7 @@
 ## 联系方式2：飞机Telegram 请添加好友 mogu667
 
 1.  即将上线演示环境  <br>
-体验地址:https://distribute.zbbino.com/mq/31/html/index.html <br>
+APP体验地址:http://file.zbbino.com/mq/3/html/index.html <br>
 账户17777777777 密码123456
 
 #### 截图   全是一体化
