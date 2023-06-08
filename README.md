@@ -4,8 +4,11 @@
 
 1.  即将上线演示环境  <br>
 APP体验地址:http://file.zbbino.com/mq/3/html/index.html <br>
-账户17777777777 密码123456
-
+账户17777777777 密码123456 <br>
+手机端后台体验地址:https://ds.lzwbdd.com/back/html/index.html<br>
+账户admin 密码123456 <br>
+PC端电脑后台体验地址:https://ma.lzwbdd.com <br>
+账户admin 密码123456 <br>
 #### 截图   全是一体化
 
 
