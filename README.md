@@ -28,10 +28,9 @@ PC端电脑后台体验地址: https://ma.lzwbdd.com<br>
 #### 截图   全是一体化
 
 
-### 手机移动端,页面自适应
-[手机移动端演示](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/appview.gif)
-### 后台端,页面自适应
-[后台端演示](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/backview.gif)
+### 搭建教程
+[搭建教程](https://youtu.be/7BIIAtqUiUI)
+
 
 ## 足球竞赛
 足球竞赛投注有两种模式，*单关* 和 *串关*。
