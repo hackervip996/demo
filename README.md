@@ -3,7 +3,7 @@
 为了巩固自己的算法，自己写了一套如下的竞彩官网的计算注数，预测金额，赔率，开奖的算法
 
 郑重申明，不要用于用户商业用途，如执意进行违法操作，与本人无任何关系
-## 如若遇到算法不懂的飞机Telegram 请添加好友 mogu667 或者QQ 536469947
+## 如若遇到算法不懂的飞机Telegram 请添加好友 mogu667 或者QQ 536469947 一起互相学习
 
 1.  测试演示环境  <br>
 APP下载地址:[https://uns.dfg145.cfd/dg/app/html/index.html](https://d1jgmyx5hugpku.cloudfront.net/dg/app/html/index.html)<br>
