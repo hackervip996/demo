@@ -6,11 +6,13 @@
 ## 如若遇到算法不懂的飞机Telegram 请添加好友 mogu667 或者QQ 536469947 一起互相学习
 
 1.  测试演示环境  <br>
-APP下载地址:[https://uns.dfg145.cfd/dg/app/html/index.html](https://d1jgmyx5hugpku.cloudfront.net/dg/app/html/index.html)<br>
+APP下载体验地址:[https://uns.dfg145.cfd/app/html/index.html](https://uns.dfg145.cfd/app/html/index.html)<br>
+APP在线预览:[https://uns.dfg145.cfd/img/app端.gif](https://uns.dfg145.cfd/img/app端.gif)<br>
 账户17777777777 密码123456 <br>
-手机端后台体验:[https://uns.dfg145.cfd/dg/admin/html/index.html](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/%E6%89%8B%E6%9C%BA%E5%90%8E%E5%8F%B0.gif)<br>
+手机端后台下载地址:[https://uns.dfg145.cfd/admin/html/index.html](https://uns.dfg145.cfd/shoujiadmin/html/index.html)<br>
+手机端后台在线预览:[https://uns.dfg145.cfd/img/手机后台.gif](https://uns.dfg145.cfd/img/手机后台.gif)<br>
 账户admin 密码123456 <br>
-PC端电脑后台体验地址: [https://udm.dfg145.cfd](https://ppm-pics-res.s3.ap-southeast-1.amazonaws.com/cms/pc%E5%90%8E%E5%8F%B0.gif)<br>
+PC端电脑后台在线预览: [https://uns.dfg145.cfd/img/pc后台.gif](https://uns.dfg145.cfd/img/pc后台.gif)<br>
 账户admin 密码123456 <br>
 <br>
 
